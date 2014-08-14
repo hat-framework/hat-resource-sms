@@ -1,9 +1,9 @@
 {
-    "name": "hatframework/resources/sms",
+    "name": "hatframework/hat-resource-sms",
     "type": "library",
     "description": "",
     "keywords": [],
-    "homepage": "https://github.com/hat-framework/resources/sms",
+    "homepage": "https://github.com/hat-framework/hat-resource-sms",
     "license": "MIT",
     "authors": [
         {
